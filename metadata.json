@@ -1,0 +1,8 @@
+{
+  "name": "MKULIMA - AI Farming Marketplace",
+  "description": "A comprehensive digital ecosystem for Kenyan farmers offering AI-driven advice, market intelligence, and a direct buyer-seller marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
